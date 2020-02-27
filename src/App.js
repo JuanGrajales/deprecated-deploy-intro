@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       RUBBER DUCKY
-      
+      <img alt="feel the duck, be the duck" src="/images/ducky.jpg"/>
     </div>
   );
 }
