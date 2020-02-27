@@ -4,9 +4,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      RUBBER DUCKY
-      <img alt="feel the duck, be the duck" src="/public/images/ducky.jpg"/>
+    <div >
+      <h1>RUBBER DUCKY</h1>
+      <img style={{width: "100%"}} alt="feel the duck, be the duck" src="/public/images/ducky.jpg"/>
     </div>
   );
 }
